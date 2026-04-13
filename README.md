@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I am passionate about leveraging data analytics to
 
 ## About Me
 
+- 🧑‍💻 Senior Data Processing Executive at @infrrd.ai
 - 🚀 Aspiring Data Analyst 
-- 🌱 currently pursuing the Google Advanced Data Analytics Certification
+- 🌱 currently pursuing the Codebasics data Analytics bootcamp 5.0 Certification
 - 🎓 Master of Computer Application
